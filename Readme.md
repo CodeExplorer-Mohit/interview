@@ -8,7 +8,7 @@ It covers **basics, core concepts, examples, and cheat-sheets** in an easy-to-re
 ## 📂 Index
 
 ### 🔹 Basics
-- [What is JavaScript?](./basics/what-is-js.md)
+- [What is JavaScript?](./what-is-js.md)
 - [Variables](./basics/variables.md)
 - [Data Types](./basics/datatypes.md)
 - [Functions](./basics/functions.md)
